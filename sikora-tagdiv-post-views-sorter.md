@@ -8,13 +8,18 @@
 
 ### Task:
 - Make a WordPress plugin that will allow me to sort the posts on the admin Posts page according to the number of views they've received.
+- The final product shall be an installable WordPress plugin.
 
 ### Requirements:
 - This plugin should make no modifications to the database.
-- By default, the Views column shall be sorted in decending order.
+- Make sure there are no security vulnerabilities with this plugin.
+- Document the code.
+- Make a README.md file that accurately describes what this plugin does and which theme it works with.
+- The installable WordPress plugin file shall have the following name with the appropriate file extension: sikora-tagdiv-post-views-sorter.
+- When the plugin is deleted, it should be completely removed from the WordPress installation.
 
 ### WordPress plugin metadata:
-- Name: Sikora TagDiv Posts Views Sorter (Customization)
+- Name: Sikora TagDiv Posts Views Sorter (Customization - Admin)
 - Version: 1.0.0
 - Author: Sikora Collective. That name should link to https://sikoracollective.com/. Do not include a Visit plugin site link.
 - Description: Makes the TagDiv Newspaper theme's "Views" column on the WordPress admin Posts page sortable.
