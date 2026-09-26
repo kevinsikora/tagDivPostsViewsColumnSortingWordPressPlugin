@@ -1,6 +1,6 @@
-# Sikora TagDiv Posts Views Sorter (Customization - Admin)
+# Sikora TagDiv Post Views Sorter (Admin)
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 **Author:** [Sikora Collective](https://sikoracollective.com/)
 
 Makes the TagDiv Newspaper theme's "Views" column on the WordPress admin Posts page sortable.

@@ -1,4 +1,4 @@
-# WordPress plugin (TagDiv Post View Sorting)
+# WordPress plugin (TagDiv Post Views Sorter)
 
 ### Introduction:
 - The WordPress admin Posts page lists all the posts for the website. On that page, there is a Views column that lists the number of views that each post has gotten. The view counts under the Views column are from the TagDiv Newspaper theme.
@@ -19,7 +19,7 @@
 - When the plugin is deleted, it should be completely removed from the WordPress installation.
 
 ### WordPress plugin metadata:
-- Name: Sikora TagDiv Posts Views Sorter (Customization - Admin)
+- Name: Sikora TagDiv Post Views Sorter (Admin)
 - Version: 1.0.0
-- Author: Sikora Collective. That name should link to https://sikoracollective.com/. Do not include a Visit plugin site link.
+- Author: <a href="https://SikoraCollective.com/">Sikora Collective</a>
 - Description: Makes the TagDiv Newspaper theme's "Views" column on the WordPress admin Posts page sortable.
